@@ -1,5 +1,5 @@
 # Toolkit: Calorie recognition
-
+ **Introduction:**
 Introducing our innovative Toolkit mobile app design, a convenient way to track your dietary habits and make healthier choices. Through our app, you can photograph your meals to estimate calorie intake, maintain a daily and weekly record, manage your diet plan, and personalize your profile according to your body measurements. With its user-friendly interface, the app comprises five tabs: Record, Everyday, Category, Plan, and Profile.
 
 1. **Record:**
