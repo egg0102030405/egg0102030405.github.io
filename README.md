@@ -7,8 +7,7 @@ Introducing our innovative Toolkit mobile app design, a convenient way to track 
 
 The Record tab is the central feature of our Toolkit app. After clicking the Record option, you are prompted with "Take photos to keep track of your diet." Below, there's a button to open the camera and capture your meal, followed by a confirmation button. Once confirmed, the app will display identified food items and quantities. 
 
-![8271684808891_.pic.jpg](Toolkit%20Calorie%20recognition%202a331e230cb7494caa8d8adb45cdc048/8271684808891_.pic.jpg)
-
+![8271684808891_.pic.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5bf41bca-d33e-4e71-bfb8-65a1f32d3e09/8271684808891_.pic.jpg)
 2. **Recognition result**：
 
 For more accurate results, you can use the "Add More" button to include unrecognized food items. Each identified food item is coupled with an "Edit" button allowing modifications or deletions for any misidentified item.
