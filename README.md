@@ -13,31 +13,31 @@ The Record tab is the central feature of our Toolkit app. After clicking the Rec
 
 For more accurate results, you can use the "Add More" button to include unrecognized food items. Each identified food item is coupled with an "Edit" button allowing modifications or deletions for any misidentified item.
 
-[Image text]!(https://github.com/egg0102030405/egg0102030405.github.io/blob/c1786afd4afc169b1a3a1686ca4fdc40aee9de39/toolkit%201.2.pic.jpg)
+![Image](https://github.com/egg0102030405/egg0102030405.github.io/blob/c1786afd4afc169b1a3a1686ca4fdc40aee9de39/toolkit%201.2.pic.jpg)
 
 3. **Modify record information:**
 
 Upon clicking "Add More," you'll enter a keyboard input interface. The app will automatically generate "Category:" and "Serving Size:", allowing you to specify the type and quantity of the food. Once entered, hit return to include this information in your record.
 
-[Image text]!(https://github.com/egg0102030405/egg0102030405.github.io/blob/c1786afd4afc169b1a3a1686ca4fdc40aee9de39/toolkit%201.3.pic.jpg)
+![Image](https://github.com/egg0102030405/egg0102030405.github.io/blob/c1786afd4afc169b1a3a1686ca4fdc40aee9de39/toolkit%201.3.pic.jpg)
 
 4. **Everyday:**
 
 The Everyday tab presents a comprehensive overview of your daily food intake. It visually represents your recorded meals, their respective categories, and the total calorie count for the day. It compares your daily intake with your average and displays each meal's recorded time and snapshot.
 
-[Image text]！(https://github.com/egg0102030405/egg0102030405.github.io/blob/c1786afd4afc169b1a3a1686ca4fdc40aee9de39/toolkit%201.4.pic.jpg)
+![Image](https://github.com/egg0102030405/egg0102030405.github.io/blob/c1786afd4afc169b1a3a1686ca4fdc40aee9de39/toolkit%201.4.pic.jpg)
 
 5. **Weekly Overview:**
 
 By selecting the Record tab and scrolling down, you'll access a weekly intake chart. This section displays a bar graph representing your calorie consumption over the week, daily calorie intake, count of meals recorded, and personalized advice based on your daily calorie intake.
 
-[Image text]!(https://github.com/egg0102030405/egg0102030405.github.io/blob/c1786afd4afc169b1a3a1686ca4fdc40aee9de39/toolkit%201.5.pic.jpg)
+![Image](https://github.com/egg0102030405/egg0102030405.github.io/blob/c1786afd4afc169b1a3a1686ca4fdc40aee9de39/toolkit%201.5.pic.jpg)
 
 6. **Plan:**
 
 Clicking on the Plan tab brings you to a To-Do List interface. Here, you can add, remove, or check off dietary goals. Based on your personal body weight and height data, this tab also provides a recommended daily calorie intake.
 
-[Image text]!(https://github.com/egg0102030405/egg0102030405.github.io/blob/c1786afd4afc169b1a3a1686ca4fdc40aee9de39/toolkit%201.6.pic.jpg)
+![Image](https://github.com/egg0102030405/egg0102030405.github.io/blob/c1786afd4afc169b1a3a1686ca4fdc40aee9de39/toolkit%201.6.pic.jpg)
 
 **Conclusion:**
 
