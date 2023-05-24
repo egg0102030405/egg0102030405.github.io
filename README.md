@@ -6,6 +6,8 @@ Introducing our innovative Toolkit mobile app design, a convenient way to track 
 1. **Record:**
 
 The Record tab is the central feature of our Toolkit app. After clicking the Record option, you are prompted with "Take photos to keep track of your diet." Below, there's a button to open the camera and capture your meal, followed by a confirmation button. Once confirmed, the app will display identified food items and quantities. 
+[Image text]!
+(http://github.com/egg0102030405/egg0102030405.github.io/toolkit)
 
 2. **Recognition result**：
 
